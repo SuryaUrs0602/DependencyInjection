@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\surya.c.urs\\source\\repos\\DependencyInjectionExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D98518-83EF-4D73-BACD-251F5F40B195}|DependencyInjectionExample\\ConstructorDependencyInjectionExample.csproj|c:\\users\\surya.c.urs\\source\\repos\\dependencyinjectionexample\\dependencyinjectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D98518-83EF-4D73-BACD-251F5F40B195}|DependencyInjectionExample\\ConstructorDependencyInjectionExample.csproj|solutionrelative:dependencyinjectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2A0E94-DF12-4EC9-B141-50CD69C751FC}|MethodDependencyInjectionExample\\MethodDependencyInjectionExample.csproj|c:\\users\\surya.c.urs\\source\\repos\\dependencyinjectionexample\\methoddependencyinjectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2A0E94-DF12-4EC9-B141-50CD69C751FC}|MethodDependencyInjectionExample\\MethodDependencyInjectionExample.csproj|solutionrelative:methoddependencyinjectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84952C4-891A-4CDF-9889-534FA9A3B371}|PropertyDependencyInjectionExample\\PropertyDependencyInjectionExample.csproj|C:\\Users\\surya.c.urs\\source\\repos\\DependencyInjectionExample\\propertydependencyinjectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84952C4-891A-4CDF-9889-534FA9A3B371}|PropertyDependencyInjectionExample\\PropertyDependencyInjectionExample.csproj|solutionrelative:propertydependencyinjectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D98518-83EF-4D73-BACD-251F5F40B195}|DependencyInjectionExample\\DependencyInjectionExample.csproj|C:\\Users\\surya.c.urs\\source\\repos\\DependencyInjectionExample\\dependencyinjectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D98518-83EF-4D73-BACD-251F5F40B195}|DependencyInjectionExample\\DependencyInjectionExample.csproj|solutionrelative:dependencyinjectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\Program.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Program.cs",
+              "RelativeToolTip": "DependencyInjectionExample\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA3wC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:35:55.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\DependencyInjectionExample\\MethodDependencyInjectionExample\\Program.cs",
+              "RelativeDocumentMoniker": "MethodDependencyInjectionExample\\Program.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\DependencyInjectionExample\\MethodDependencyInjectionExample\\Program.cs",
+              "RelativeToolTip": "MethodDependencyInjectionExample\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:08:39.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\DependencyInjectionExample\\PropertyDependencyInjectionExample\\Program.cs",
+              "RelativeDocumentMoniker": "PropertyDependencyInjectionExample\\Program.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\DependencyInjectionExample\\PropertyDependencyInjectionExample\\Program.cs",
+              "RelativeToolTip": "PropertyDependencyInjectionExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:01:34.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionExample\\Program.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\DependencyInjectionExample\\DependencyInjectionExample\\Program.cs",
+              "RelativeToolTip": "DependencyInjectionExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T03:45:30.344Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
